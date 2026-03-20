@@ -1,4 +1,4 @@
-# 🚀 CODEALPHA AI Projects
+# 🚀 CODEALPHA 
 
 This repository contains AI/ML projects developed as part of the CodeAlpha Internship.
 
